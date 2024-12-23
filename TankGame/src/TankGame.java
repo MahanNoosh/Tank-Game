@@ -1,6 +1,5 @@
 /**
  * @auther @MahanNoosh
- * Final game project for ICS3U
  * Jun 2022-2023
  */
 
