@@ -1,9 +1,43 @@
-To change map open map1 (0 for ground and 1 for walls)
+# Tank-Game
 
-You can move red tank with WASD and C for shoot
+A classic two-player tank battle game built as my first project.  
+While it has some minor bugs, it's still fun to play and worth showcasing.
 
-And you can move blue with IJKL and >(next to ?) for shoot
+---
 
+## 🎮 Gameplay
 
-there is a bug that when you shoot perpendicular to bottom of walls it goes through(I might fix it but that project is over now :( I want to do new projects)
-Also, you can see I have a class in my TankGame Class. Well, being a noobie in my first project is normal :D
+- **Red Tank Controls:**
+  - Move: `WASD`
+  - Shoot: `C`
+
+- **Blue Tank Controls:**
+  - Move: `IJKL`
+  - Shoot: `>` (next to `?`)
+
+To change the map, open `map1` and edit the values: `0` for ground and `1` for walls.
+
+---
+
+## 🛠️ Known Issues
+
+- When shooting perpendicular to the bottom of walls, bullets may pass through them.
+- Some code structure issues due to being a beginner at the time.
+
+---
+
+## 📂 Project Structure
+
+The main game logic is contained within the `TankGame` class.  
+Despite being my first big project in java, it was a valuable learning experience.
+
+---
+
+## 📥 How to Play
+
+1. Clone or download the repository.
+2. Open `TankGame` to start the game.
+
+---
+
+Feel free to explore the code and have fun!
